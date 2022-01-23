@@ -1,0 +1,11 @@
+New WireData.Wire_500_mcm GMRac=0.07439999761920006 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=535.0 emergamps=545.0 Rac=0.00019009999999999999
+
+New WireData.Wire_ospray GMRac=0.07439999761920006 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=660.0 emergamps=670.0 Rac=0.00019009999999999999
+
+New WireData.Wire_rabbit GMRac=0.07439999761920006 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=202.0 emergamps=212.0 Rac=0.00019009999999999999
+
+New WireData.Wire_dog GMRac=0.07439999761920006 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=307.0 emergamps=317.0 Rac=0.00019009999999999999
+
+New WireData.Wire_ins_rabbit GMRac=0.0744 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=202.0 emergamps=212.0 Rac=0.00019009999999999999
+
+New WireData.Wire_ant GMRac=0.0744 GMRunits=m Diam=0.0022860000000000003 Radunits=m normamps=211.0 emergamps=221.0 Rac=0.00019009999999999999

@@ -1,0 +1,121 @@
+!System Transformers
+
+New Transformer.t-7060919012 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo1 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo1 XHL=3.2441331661940143
+
+New Transformer.t-7060919022 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo2 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo2 XHL=3.6160613932841352
+
+New Transformer.t-7110919027 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo3 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo3 XHL=3.4524773713957924
+
+New Transformer.t-7110919034 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo4 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo4 XHL=3.2441331661940143
+
+New Transformer.t-7060919039 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo5 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo5 XHL=3.4524773713957924
+
+New Transformer.t-7060919042 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo6 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo6 XHL=3.4524773713957924
+
+New Transformer.t-7060919046 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo7 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo7 XHL=3.4524773713957924
+
+New Transformer.t-7060919051 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo8 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo8 XHL=3.6160613932841352
+
+New Transformer.t-7060919056 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo9 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo9 XHL=3.6160613932841352
+
+New Transformer.t-7060919059 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo10 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo10 XHL=3.4524773713957924
+
+New Transformer.t-7060919062 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo11 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo11 XHL=3.6160613932841352
+
+New Transformer.t-7110919071 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo12 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo12 XHL=3.6160613932841352
+
+New Transformer.t-7110919077 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo13 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo13 XHL=3.6160613932841352
+
+New Transformer.t-7110919085 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo14 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo14 XHL=3.6160613932841352
+
+New Transformer.t-7110919101 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo15 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo15 XHL=3.2441331661940143
+
+New Transformer.t-7110919105 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo16 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo16 XHL=3.6160613932841352
+
+New Transformer.t-7110919118 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo17 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo17 XHL=3.4524773713957924
+
+New Transformer.t-7110919122 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo18 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo18 XHL=3.2441331661940143
+
+New Transformer.t-7110919123 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo19 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo19 XHL=3.0734996339677676
+
+New Transformer.t-7110919125 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo20 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo20 XHL=3.4524773713957924
+
+New Transformer.t-7110919126 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo21 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo21 XHL=3.0734996339677676
+
+New Transformer.t-7110919128 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo22 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo22 XHL=3.2441331661940143
+
+New Transformer.t-7110919129 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo23 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo23 XHL=3.2441331661940143
+
+New Transformer.t-7110919132 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo24 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo24 XHL=3.6160613932841352
+
+New Transformer.t-7110919133 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo25 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo25 XHL=3.0734996339677676
+
+New Transformer.t-7110919136 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo26 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo26 XHL=3.4524773713957924
+
+New Transformer.t-7110919138 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo27 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo27 XHL=3.0734996339677676
+
+New Transformer.t-7110919140 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo28 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo28 XHL=3.6160613932841352
+
+New Transformer.t-7110919143 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo29 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo29 XHL=3.6160613932841352
+
+New Transformer.t-7110919148 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo30 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo30 XHL=3.6160613932841352
+
+New Transformer.t-7110919153 phases=3 windings=2 %Noloadloss=0.92 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.4 bus=trafo31 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.4 bus=2trafo31 XHL=3.746998799039039
+
+New Transformer.t-7120919157 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo32 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo32 XHL=3.0734996339677676
+
+New Transformer.t-7120919164 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo33 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo33 XHL=3.6160613932841352
+
+!Theft Transformer for Theft
+New Transformer.t-100 phases=3 windings=2 %Noloadloss=0.17 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=trafo100 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.34 bus=2trafo100 XHL=3.2441331661940143
+
+New Transformer.t-7120919176 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo34 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo34 XHL=3.6160613932841352
+
+New Transformer.t-7120919180 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo35 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo35 XHL=3.6160613932841352
+
+New Transformer.t-7120919184 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo36 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo36 XHL=3.4524773713957924
+
+New Transformer.t-7120919188 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo37 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo37 XHL=3.6160613932841352
+
+New Transformer.t-7120919191 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo38 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo38 XHL=3.4524773713957924
+
+New Transformer.t-7120919195 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo39 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo39 XHL=3.6160613932841352
+
+New Transformer.t-7120919198 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo40 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo40 XHL=3.6160613932841352
+
+New Transformer.t-7120919204 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo41 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo41 XHL=3.6160613932841352
+
+New Transformer.t-7120919208 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo42 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo42 XHL=3.4524773713957924
+
+New Transformer.t-7120919211 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo43 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo43 XHL=3.6160613932841352
+
+New Transformer.t-7120919214 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo44 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo44 XHL=3.6160613932841352
+
+New Transformer.t-7120919220 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo45 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo45 XHL=3.6160613932841352
+
+New Transformer.t-7120919224 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo46 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo46 XHL=3.6160613932841352
+
+New Transformer.t-7120919231 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo47 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo47 XHL=3.6160613932841352
+
+New Transformer.t-7120919234 phases=3 windings=2 %Noloadloss=0.31 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=trafo48 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.02 bus=2trafo48 XHL=3.4524773713957924
+
+New Transformer.t-7120919237 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo49 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo49 XHL=3.6160613932841352
+
+New Transformer.t-7120919239 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo50 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo50 XHL=3.6160613932841352
+
+New Transformer.t-7120919242 phases=3 windings=2 %Noloadloss=0.12 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=trafo51 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=2.56 bus=2trafo51 XHL=3.0734996339677676
+
+New Transformer.t-7120919244 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo52 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo52 XHL=3.6160613932841352
+
+New Transformer.t-7120919248 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo53 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo53 XHL=3.6160613932841352
+
+New Transformer.t-7120919252 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo54 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo54 XHL=3.6160613932841352
+
+New Transformer.t-7120919260 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo55 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo55 XHL=3.6160613932841352
+
+New Transformer.t-7120919270 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo56 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo56 XHL=3.6160613932841352
+
+New Transformer.t-7120919275 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo57 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo57 XHL=3.6160613932841352
+
+New Transformer.t-7120919278 phases=3 windings=2 %Noloadloss=0.49 wdg=1 conn=wye Kv=11.0 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=trafo58 wdg=2 conn=wye Kv=0.41500000000000004 kva=200.0 EmergHKVA=220.0 %R=1.71 bus=2trafo58 XHL=3.6160613932841352
+

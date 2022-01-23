@@ -1,0 +1,12 @@
+New LineGeometry.Geometry_1 Nconds=3 Nphases=3 Units=m Cond=1 Wire=Wire_500_mcm X=0.0 H=10.288719961960961 Normamps=535.0 Emergamps=545.0 Cond=2 Wire=Wire_500_mcm X=1.066799965862401 H=10.288719961960961 Normamps=535.0 Emergamps=545.0 Cond=3 Wire=Wire_500_mcm X=3.047999902464003 H=10.288719961960961 Normamps=535.0 Emergamps=545.0 Reduce=y
+
+New LineGeometry.Geometry_2 Nconds=3 Nphases=3 Units=m Cond=1 Wire=Wire_ospray X=0.0 H=10.288719961960961 Normamps=660.0 Emergamps=670.0 Cond=2 Wire=Wire_ospray X=1.066799965862401 H=10.288719961960961 Normamps=660.0 Emergamps=670.0 Cond=3 Wire=Wire_ospray X=3.047999902464003 H=10.288719961960961 Normamps=660.0 Emergamps=670.0 Reduce=y
+
+New LineGeometry.Geometry_3 Nconds=4 Nphases=3 Units=m Cond=1 Wire=Wire_ant X=0.0 H=10.288719961960961 Normamps=211.0 Emergamps=221.0 Cond=2 Wire=Wire_ant X=1.066799965862401 H=10.288719961960961 Normamps=211.0 Emergamps=221.0 Cond=3 Wire=Wire_ant X=3.047999902464003 H=10.288719961960961 Normamps=211.0 Emergamps=221.0 Cond=4 Wire=Wire_ant X=1.5849599492812816 H=9.1 Normamps=211.0 Emergamps=221.0 Reduce=y
+
+New LineGeometry.Geometry_4 Nconds=3 Nphases=3 Units=m Cond=1 Wire=Wire_rabbit X=0.0 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Cond=2 Wire=Wire_rabbit X=1.066799965862401 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Cond=3 Wire=Wire_rabbit X=3.047999902464003 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Reduce=y
+
+New LineGeometry.Geometry_5 Nconds=3 Nphases=3 Units=m Cond=1 Wire=Wire_dog X=0.0 H=10.288719961960961 Normamps=307.0 Emergamps=317.0 Cond=2 Wire=Wire_dog X=1.066799965862401 H=10.288719961960961 Normamps=307.0 Emergamps=317.0 Cond=3 Wire=Wire_dog X=3.047999902464003 H=10.288719961960961 Normamps=307.0 Emergamps=317.0 Reduce=y
+
+New LineGeometry.Geometry_6 Nconds=3 Nphases=3 Units=m Cond=1 Wire=Wire_ins_rabbit X=0.0 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Cond=2 Wire=Wire_ins_rabbit X=1.066799965862401 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Cond=3 Wire=Wire_ins_rabbit X=3.047999902464003 H=10.288719961960961 Normamps=202.0 Emergamps=212.0 Reduce=y
+

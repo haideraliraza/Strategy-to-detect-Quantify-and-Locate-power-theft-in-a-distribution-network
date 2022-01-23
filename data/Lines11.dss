@@ -1,0 +1,481 @@
+New Line.001027060919002 Units=km Length=0.07212489168102781 bus1=gulshan_e_iqbal bus2=2 switch=n enabled=y phases=3 geometry=Geometry_1
+
+New Line.001027060919010 Units=km Length=0.21086725682286497 bus1=2 bus2=3 switch=n enabled=y phases=3 geometry=Geometry_2
+
+New Line.001027110919026 Units=km Length=0.0702637886823647 bus1=3 bus2=301 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919027 Units=km Length=0.001 bus1=301 bus2=302 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919027.2 Units=km Length=0.0014142135623731 bus1=302 bus2=trafo3 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919028 Units=km Length=0.00223606797749979 bus1=301 bus2=303 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919033 Units=km Length=0.09667471230885559 bus1=301 bus2=304 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919034 Units=km Length=0.001 bus1=304 bus2=305 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919034.2 Units=km Length=0.0014142135623731 bus1=305 bus2=trafo4 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919035 Units=km Length=0.001 bus1=304 bus2=306 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027060919011 Units=km Length=0.0444184646290256 bus1=3 bus2=4 switch=n enabled=y phases=3 geometry=Geometry_2
+
+New Line.001027060919012 Units=km Length=0.001 bus1=4 bus2=401 switch=n enabled=y phases=3 geometry=Geometry_2
+
+New Line.001027060919012.2 Units=km Length=0.0014142135623731 bus1=401 bus2=trafo1 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027060919020 Units=km Length=0.32071326757713003 bus1=4 bus2=5 switch=n enabled=y phases=3 geometry=Geometry_2
+
+New Line.001027110919038 Units=km Length=0.12205326705991895 bus1=5 bus2=501 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919039 Units=km Length=0.001 bus1=501 bus2=502 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919039.2 Units=km Length=0.0014142135623731 bus1=502 bus2=trafo5 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919040 Units=km Length=0.0014142135623731 bus1=501 bus2=503 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919041 Units=km Length=0.049365980188789904 bus1=501 bus2=504 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919042 Units=km Length=0.001 bus1=504 bus2=505 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919042.2 Units=km Length=0.0014142135623731 bus1=505 bus2=trafo6 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919043 Units=km Length=0.004 bus1=504 bus2=506 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919045 Units=km Length=0.040049968789001605 bus1=504 bus2=507 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919046 Units=km Length=0.00223606797749979 bus1=507 bus2=508 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919046.2 Units=km Length=0.0014142135623731 bus1=508 bus2=trafo7 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919047 Units=km Length=0.0036055512754639904 bus1=507 bus2=509 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919050 Units=km Length=0.100806745806022 bus1=507 bus2=510 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919051 Units=km Length=0.001 bus1=510 bus2=511 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919051.2 Units=km Length=0.0014142135623731 bus1=511 bus2=trafo8 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919052 Units=km Length=0.001 bus1=510 bus2=512 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919055 Units=km Length=0.08637129152675671 bus1=510 bus2=513 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919056 Units=km Length=0.001 bus1=513 bus2=514 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919056.2 Units=km Length=0.0014142135623731 bus1=514 bus2=trafo9 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919057 Units=km Length=0.00223606797749979 bus1=513 bus2=515 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919058 Units=km Length=0.03668787265568832 bus1=510 bus2=516 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919059 Units=km Length=0.001 bus1=516 bus2=517 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919059.2 Units=km Length=0.0014142135623731 bus1=517 bus2=trafo10 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919060 Units=km Length=0.002 bus1=516 bus2=518 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919061 Units=km Length=0.0028284271247461896 bus1=516 bus2=519 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919062 Units=km Length=0.0014142135623731 bus1=519 bus2=520 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919062.2 Units=km Length=0.0014142135623731 bus1=520 bus2=trafo11 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919063 Units=km Length=0.005656854249492379 bus1=519 bus2=521 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027060919021 Units=km Length=0.006403124237432852 bus1=5 bus2=6 switch=n enabled=y phases=3 geometry=Geometry_2
+
+New Line.001027060919022 Units=km Length=0.00223606797749979 bus1=6 bus2=601 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027060919022.2 Units=km Length=0.0014142135623731 bus1=601 bus2=trafo2 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027060919023 Units=km Length=0.00316227766016838 bus1=6 bus2=602 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919069 Units=km Length=0.22902619937465699 bus1=6 bus2=7 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919070 Units=km Length=0.03195309061734091 bus1=7 bus2=701 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919071 Units=km Length=0.00223606797749979 bus1=701 bus2=702 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919071.2 Units=km Length=0.0014142135623731 bus1=702 bus2=trafo12 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919072 Units=km Length=0.0053851648071345 bus1=701 bus2=703 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919073 Units=km Length=0.0380131556174964 bus1=701 bus2=704 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919076 Units=km Length=0.11047624178980706 bus1=704 bus2=705 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919077 Units=km Length=0.0014142135623731 bus1=705 bus2=706 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919077.2 Units=km Length=0.0014142135623731 bus1=706 bus2=trafo13 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919078 Units=km Length=0.003 bus1=705 bus2=707 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919081 Units=km Length=0.0661286624694618 bus1=705 bus2=708 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919084 Units=km Length=0.08664871608973791 bus1=708 bus2=709 switch=n enabled=y phases=3 geometry=Geometry_6
+
+New Line.001027110919085 Units=km Length=0.001 bus1=709 bus2=710 switch=n enabled=y phases=3 geometry=Geometry_6
+
+New Line.001027110919085.2 Units=km Length=0.0014142135623731 bus1=710 bus2=trafo14 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919086 Units=km Length=0.00223606797749979 bus1=709 bus2=711 switch=n enabled=y phases=3 geometry=Geometry_6
+
+New Line.001027110919089 Units=km Length=0.11576700738984301 bus1=704 bus2=712 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919092 Units=km Length=0.038910152916687396 bus1=7 bus2=8 switch=n enabled=y phases=3 geometry=Geometry_1
+
+New Line.001027110919097 Units=km Length=0.188854441303349 bus1=8 bus2=9 switch=n enabled=y phases=3 geometry=Geometry_1
+
+New Line.001027110919098 Units=km Length=0.001 bus1=9 bus2=901 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919098.2 Units=km Length=0.0014142135623731 bus1=901 bus2=trafo141 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919099 Units=km Length=0.002 bus1=9 bus2=902 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919100 Units=km Length=0.0417612260356422 bus1=9 bus2=10 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919101 Units=km Length=0.001 bus1=10 bus2=1001 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919101.2 Units=km Length=0.0014142135623731 bus1=1001 bus2=trafo15 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919104 Units=km Length=0.13203408650799198 bus1=10 bus2=11 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919105 Units=km Length=0.00223606797749979 bus1=11 bus2=1101 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919105.2 Units=km Length=0.0014142135623731 bus1=1101 bus2=trafo16 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919106 Units=km Length=0.0042426406871192805 bus1=11 bus2=1102 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919111 Units=km Length=0.166388100536066 bus1=11 bus2=12 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919112 Units=km Length=0.024041630560342604 bus1=12 bus2=13 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919117 Units=km Length=0.16233607116103302 bus1=13 bus2=1301 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919118 Units=km Length=0.001 bus1=1301 bus2=1302 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919118.2 Units=km Length=0.0014142135623731 bus1=1302 bus2=trafo17 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919121 Units=km Length=0.0716937933157397 bus1=1301 bus2=1303 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919122 Units=km Length=0.0014142135623731 bus1=1303 bus2=1304 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919122.2 Units=km Length=0.0014142135623731 bus1=1304 bus2=trafo18 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919123 Units=km Length=0.00223606797749979 bus1=1303 bus2=1305 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919123.2 Units=km Length=0.0014142135623731 bus1=1305 bus2=trafo19 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919124 Units=km Length=0.0060827625302982205 bus1=1303 bus2=1306 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919125 Units=km Length=0.001 bus1=1306 bus2=1307 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919125.2 Units=km Length=0.0014142135623731 bus1=1307 bus2=trafo20 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919126 Units=km Length=0.00223606797749979 bus1=1306 bus2=1308 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919126.2 Units=km Length=0.0014142135623731 bus1=1308 bus2=trafo21 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919127 Units=km Length=0.028460498941515408 bus1=1306 bus2=1309 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919128 Units=km Length=0.001 bus1=1309 bus2=1310 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919128.2 Units=km Length=0.0014142135623731 bus1=1310 bus2=trafo22 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919129 Units=km Length=0.001 bus1=1309 bus2=1311 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919129.2 Units=km Length=0.0014142135623731 bus1=1311 bus2=trafo23 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919130 Units=km Length=0.0028284271247461896 bus1=1309 bus2=1312 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919131 Units=km Length=0.00223606797749979 bus1=1312 bus2=1313 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919131.2 Units=km Length=0.0014142135623731 bus1=1313 bus2=trafo24 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919132 Units=km Length=0.00316227766016838 bus1=1312 bus2=1314 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919132.2 Units=km Length=0.0014142135623731 bus1=1314 bus2=trafo25 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919133 Units=km Length=0.009848857801796099 bus1=1312 bus2=1315 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919135 Units=km Length=0.0317647603485372 bus1=1315 bus2=1316 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919136 Units=km Length=0.002 bus1=1316 bus2=1317 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919136.2 Units=km Length=0.0014142135623731 bus1=1317 bus2=trafo26 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919137 Units=km Length=0.009055385138137423 bus1=1316 bus2=1318 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919138 Units=km Length=0.001 bus1=1318 bus2=1319 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919138.2 Units=km Length=0.0014142135623731 bus1=1319 bus2=trafo27 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919139 Units=km Length=0.0377359245282264 bus1=1318 bus2=1320 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919140 Units=km Length=0.001 bus1=1320 bus2=1321 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919140.2 Units=km Length=0.0014142135623731 bus1=1321 bus2=trafo28 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919141 Units=km Length=0.00223606797749979 bus1=1320 bus2=1322 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919142 Units=km Length=0.010295630140987005 bus1=1320 bus2=1323 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919143 Units=km Length=0.001 bus1=1323 bus2=1324 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919143.2 Units=km Length=0.0014142135623731 bus1=1324 bus2=trafo29 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919144 Units=km Length=0.0014142135623731 bus1=1323 bus2=1325 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919147 Units=km Length=0.131244047484067 bus1=1323 bus2=1326 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919148 Units=km Length=0.002 bus1=1326 bus2=1327 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919148.2 Units=km Length=0.0014142135623731 bus1=1327 bus2=trafo30 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919149 Units=km Length=0.003 bus1=1326 bus2=1328 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919152 Units=km Length=0.11352973178863801 bus1=1326 bus2=1329 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027110919153 Units=km Length=0.001 bus1=1329 bus2=1330 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027110919153.2 Units=km Length=0.0014142135623731 bus1=1330 bus2=trafo31 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027110919154 Units=km Length=0.002 bus1=1329 bus2=1331 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919155 Units=km Length=0.03984971769034261 bus1=13 bus2=14 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919156 Units=km Length=0.005 bus1=14 bus2=1401 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919157 Units=km Length=0.0014142135623731 bus1=1401 bus2=1402 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919157.2 Units=km Length=0.0014142135623731 bus1=1402 bus2=trafo32 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919158 Units=km Length=0.04623851208678761 bus1=14 bus2=15 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919163 Units=km Length=0.236579796263333 bus1=15 bus2=1501 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919164 Units=km Length=0.001 bus1=1501 bus2=1502 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919164.2 Units=km Length=0.0014142135623731 bus1=1502 bus2=trafo33 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919165 Units=km Length=0.002 bus1=1501 bus2=1503 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919166 Units=km Length=0.04123105625617661 bus1=1501 bus2=1504 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919167 Units=km Length=0.001 bus1=1504 bus2=1505 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919167.2 Units=km Length=0.0014142135623731 bus1=1505 bus2=1506 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919168 Units=km Length=0.002 bus1=1504 bus2=1507 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919172 Units=km Length=0.17345892885637199 bus1=1504 bus2=1508 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.100 Units=km Length=0.0014142135623731 bus1=1508 bus2=trafo100 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919175 Units=km Length=0.10722406446316099 bus1=15 bus2=16 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919176 Units=km Length=0.001 bus1=16 bus2=1601 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919176.2 Units=km Length=0.0014142135623731 bus1=1601 bus2=trafo34 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919177 Units=km Length=0.00223606797749979 bus1=16 bus2=1602 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919179 Units=km Length=0.08077747210701762 bus1=16 bus2=17 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919180 Units=km Length=0.001 bus1=17 bus2=1701 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919180.2 Units=km Length=0.0014142135623731 bus1=1701 bus2=trafo35 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919181 Units=km Length=0.002 bus1=17 bus2=1702 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919183 Units=km Length=0.08207923001588159 bus1=17 bus2=18 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919184 Units=km Length=0.001 bus1=18 bus2=1801 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919184.2 Units=km Length=0.0014142135623731 bus1=1801 bus2=trafo36 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919185 Units=km Length=0.00223606797749979 bus1=18 bus2=1802 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919187 Units=km Length=0.06957010852370431 bus1=18 bus2=1803 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919188 Units=km Length=0.001 bus1=1803 bus2=1804 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919188.2 Units=km Length=0.0014142135623731 bus1=1804 bus2=trafo37 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919189 Units=km Length=0.002 bus1=1803 bus2=1805 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919190 Units=km Length=0.0379473319220206 bus1=1803 bus2=1806 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919191 Units=km Length=0.0028284271247461896 bus1=1806 bus2=1807 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919191.2 Units=km Length=0.0014142135623731 bus1=1807 bus2=trafo38 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919192 Units=km Length=0.040496913462633205 bus1=1806 bus2=1808 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919194 Units=km Length=0.0576974869470066 bus1=18 bus2=19 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919195 Units=km Length=0.001 bus1=19 bus2=1901 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919195.2 Units=km Length=0.0014142135623731 bus1=1901 bus2=trafo39 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919196 Units=km Length=0.00223606797749979 bus1=19 bus2=1902 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919197 Units=km Length=0.0452216762183801 bus1=19 bus2=20 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919198 Units=km Length=0.001 bus1=20 bus2=2001 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919198.2 Units=km Length=0.0014142135623731 bus1=2001 bus2=trafo40 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919199 Units=km Length=0.00316227766016838 bus1=20 bus2=2002 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919201 Units=km Length=0.0878464569575803 bus1=20 bus2=21 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919203 Units=km Length=0.0622976725086901 bus1=21 bus2=22 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919259 Units=km Length=0.037000000000000005 bus1=21 bus2=2101 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919260 Units=km Length=0.0014142135623731 bus1=2101 bus2=2102 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919260.2 Units=km Length=0.0014142135623731 bus1=2102 bus2=trafo55 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919261 Units=km Length=0.0028284271247461896 bus1=2101 bus2=2103 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919262 Units=km Length=0.0540832691319598 bus1=2101 bus2=2103 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919204 Units=km Length=0.00223606797749979 bus1=22 bus2=2201 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919204.2 Units=km Length=0.0014142135623731 bus1=2201 bus2=trafo41 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919205 Units=km Length=0.002 bus1=22 bus2=2202 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919206 Units=km Length=0.0393954312071844 bus1=22 bus2=23 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919207 Units=km Length=0.0136014705087354 bus1=23 bus2=2301 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919208 Units=km Length=0.0014142135623731 bus1=2301 bus2=2302 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919208.2 Units=km Length=0.0014142135623731 bus1=2302 bus2=trafo42 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919209 Units=km Length=0.0041231056256176585 bus1=2301 bus2=2303 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919210 Units=km Length=0.044147480109288206 bus1=23 bus2=24 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919211 Units=km Length=0.001 bus1=24 bus2=2401 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919211.2 Units=km Length=0.0014142135623731 bus1=2401 bus2=trafo43 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919212 Units=km Length=0.00316227766016838 bus1=24 bus2=2402 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919213 Units=km Length=0.0474341649025257 bus1=24 bus2=25 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919214 Units=km Length=0.0014142135623731 bus1=25 bus2=2501 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919214.2 Units=km Length=0.0014142135623731 bus1=2501 bus2=trafo44 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919215 Units=km Length=0.0036055512754639904 bus1=25 bus2=2502 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919218 Units=km Length=0.12200409829181999 bus1=25 bus2=2503 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919219 Units=km Length=0.046957427527495606 bus1=25 bus2=2504 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919220 Units=km Length=0.001 bus1=2504 bus2=2505 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919220.2 Units=km Length=0.0014142135623731 bus1=2505 bus2=trafo45 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919221 Units=km Length=0.00316227766016838 bus1=2504 bus2=2506 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919223 Units=km Length=0.0797057087039567 bus1=2504 bus2=2507 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919224 Units=km Length=0.001 bus1=2507 bus2=2508 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919224.2 Units=km Length=0.0014142135623731 bus1=2508 bus2=trafo46 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919225 Units=km Length=0.003 bus1=2507 bus2=2509 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919226 Units=km Length=0.049396356140913894 bus1=2507 bus2=2510 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919230 Units=km Length=0.127015747055237 bus1=25 bus2=26 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919231 Units=km Length=0.001 bus1=26 bus2=2601 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919231.2 Units=km Length=0.0014142135623731 bus1=2601 bus2=trafo47 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919232 Units=km Length=0.002 bus1=26 bus2=2602 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919269 Units=km Length=0.12559060474414505 bus1=26 bus2=2603 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919270 Units=km Length=0.0014142135623731 bus1=2603 bus2=2604 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919270.2 Units=km Length=0.0014142135623731 bus1=2604 bus2=trafo56 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919271 Units=km Length=0.0014142135623731 bus1=2603 bus2=2605 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919274 Units=km Length=0.13839797686382602 bus1=26 bus2=2606 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919275 Units=km Length=0.001 bus1=2606 bus2=2607 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919275.2 Units=km Length=0.0014142135623731 bus1=2607 bus2=trafo57 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919233 Units=km Length=0.006403124237432852 bus1=26 bus2=27 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919234 Units=km Length=0.001 bus1=27 bus2=2701 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919234.2 Units=km Length=0.0014142135623731 bus1=2701 bus2=trafo48 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919235 Units=km Length=0.002 bus1=27 bus2=2702 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919277 Units=km Length=0.0342052627529741 bus1=27 bus2=2703 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919278 Units=km Length=0.00223606797749979 bus1=2703 bus2=2704 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919278.2 Units=km Length=0.0014142135623731 bus1=2704 bus2=trafo58 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919279 Units=km Length=0.00316227766016838 bus1=2703 bus2=2705 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919236 Units=km Length=0.041593268686170796 bus1=27 bus2=28 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919237 Units=km Length=0.001 bus1=28 bus2=2801 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919237.2 Units=km Length=0.0014142135623731 bus1=2801 bus2=trafo49 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919238 Units=km Length=0.04123105625617661 bus1=28 bus2=29 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919239 Units=km Length=0.001 bus1=29 bus2=2901 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919239.2 Units=km Length=0.0014142135623731 bus1=2901 bus2=trafo50 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919241 Units=km Length=0.10255242561734002 bus1=29 bus2=30 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919242 Units=km Length=0.001 bus1=30 bus2=3001 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919242.2 Units=km Length=0.0014142135623731 bus1=3001 bus2=trafo51 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919243 Units=km Length=0.004 bus1=30 bus2=31 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919244 Units=km Length=0.00223606797749979 bus1=31 bus2=3101 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919244.2 Units=km Length=0.0014142135623731 bus1=3101 bus2=trafo52 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919245 Units=km Length=0.00447213595499958 bus1=31 bus2=3102 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919247 Units=km Length=0.0736817480791546 bus1=31 bus2=32 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919248 Units=km Length=0.001 bus1=32 bus2=3201 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919248.2 Units=km Length=0.0014142135623731 bus1=3201 bus2=trafo53 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919249 Units=km Length=0.001 bus1=32 bus2=3202 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919251 Units=km Length=0.056462376853972394 bus1=32 bus2=33 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919252 Units=km Length=0.0028284271247461896 bus1=33 bus2=3301 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919252.2 Units=km Length=0.0014142135623731 bus1=3301 bus2=trafo54 switch=n enabled=y phases=3 geometry=Geometry_3
+
+New Line.001027120919253 Units=km Length=0.0042426406871192805 bus1=33 bus2=3302 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919254 Units=km Length=0.0461735855224608 bus1=33 bus2=3303 switch=n enabled=y phases=3 geometry=Geometry_4
+
+New Line.001027120919255 Units=km Length=0.02941088233970549 bus1=31 bus2=3104 switch=n enabled=y phases=3 geometry=Geometry_5
+
+New Line.001027120919265 Units=km Length=0.133794618725867 bus1=31 bus2=3105 switch=n enabled=y phases=3 geometry=Geometry_5

@@ -1,0 +1,39 @@
+Clear
+
+New Circuit.Full_Network basekV=11.0 pu=.99 phases=3 bus1=gulshan_e_iqbal   //R1=0.0 X1=0.0 R0=0.0 X0=0.0
+
+Redirect WireData11.dss
+Redirect LineGeometry11.dss
+Redirect Lines11.dss
+Redirect Transformers.dss
+Redirect Loads11.dss
+
+
+Set Voltagebases=[0.41500000000000004, 11.0]
+
+Calcvoltagebases
+
+
+New EnergyMeter.sub element=Line.001027060919002 terminal=1
+
+Solve
+
+Set normvmaxpu = 1.02
+Set normvminpu = .95
+Set emergvminpu = 0.94
+
+BusCoords Buscoords.CSV
+Set Marktransformers=Yes MarkerCode=9
+
+
+Plot Profile Phases=1
+
+!Export Voltages
+
+plot circuit Power  max=1000 dots=n labels=n C1=$00FF0000  1ph=3  ! Max Thickness is at 1000 kW
+!plot circuit Losses max=10      dots=y labels=n C1=$00FF0000    ! losses per unit length
+
+
+!plot circuit voltage dots=y labels=n  
+
+!plot daisy Power Max=2000 dots=n labels=n subs=n C1= $00C5AC23 ! $00FF0000
